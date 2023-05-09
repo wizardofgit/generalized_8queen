@@ -1,5 +1,5 @@
 # generalized_8queen
-Generalizaed 8-queen problem with 3 figures and n x n board
+Generalized 8-queen problem with 3 figures and n x n board
 
 # Description
 The code written in IMB ILOG CPLEX aims to solve a NP-problem that is a generalization of the 8-queen problem.
