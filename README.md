@@ -14,3 +14,7 @@ will be assigned value -2 et cetera.
 # Constraints
 The constraints are written so that no figure can attack any another figure. In other words, no figure 'collides' with any other.
 For example for each row, column and 'diagonal' there can be no more than one queen. But there can me multiple towers or more than one king.
+
+# A few words...
+The code is pretty much a mess with legacy/not used code (commented out), not very illuminating comments and not properly explained code. Don't neccesarilly take the code on face value.
+Sorry for that!
