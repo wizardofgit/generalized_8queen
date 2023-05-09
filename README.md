@@ -1,4 +1,4 @@
-# generalized_8queen
+# The problem
 Generalized 8-queen problem with 3 figures and n x n board
 
 # Description
